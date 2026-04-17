@@ -6,7 +6,6 @@ I am actively building my skills with the goal of becoming a professional progra
 
 English proficiency at C1 level.
 
-### 📚 Current Path
 **Studying Software Engineer C# at SoftUni**
 - ✅ **Programming Fundamentals / C# Fundamentals** — Built a strong foundation in programming logic, problem-solving, data structures, OOP concepts, functional programming, and web basics.
 - ✅ **C# Advanced** — Developed more advanced C# skills, including collections, generics, and functional techniques.
@@ -15,7 +14,7 @@ English proficiency at C1 level.
 - ✅ **C# Web** — Built web applications with ASP.NET Core MVC, working with authentication, middleware, and RESTful concepts.
 - 🔄 **In Progress:** JS Front-End and C# Full-Stack Developer.
 
-### 📜 Certificates
+### Certificates
 - [Programming Basics Certificate](https://softuni.bg/certificates/details/227006/a038bd34)
 - [C# Fundamentals Certificate](https://softuni.bg/certificates/details/239910/9908cef3)
 - [C# Advanced Certificate](https://softuni.bg/certificates/details/245134/c273bb1d)
@@ -25,5 +24,3 @@ English proficiency at C1 level.
 - [ASP.NET Fundamentals Certificate](https://softuni.bg/certificates/details/257924/0de11363)
 - [ASP.NET Advanced Certificate](https://softuni.bg/certificates/details/260011/745f7062)
 
-### 🎯 Goal
-To keep learning, improving, and growing into a well-rounded software developer.
