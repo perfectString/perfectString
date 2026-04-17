@@ -7,7 +7,7 @@ I am actively building my skills with the goal of becoming a professional progra
 English proficiency at C1 level.
 
 ### 📚 Current Path
-- **Software Engineer with C# at SoftUni**
+**Studying Software Engineer C# at SoftUni**
 - ✅ **Programming Fundamentals / C# Fundamentals** — Built a strong foundation in programming logic, problem-solving, data structures, OOP concepts, functional programming, and web basics.
 - ✅ **C# Advanced** — Developed more advanced C# skills, including collections, generics, and functional techniques.
 - ✅ **C# OOP** — Applied object-oriented principles such as encapsulation, inheritance, abstraction, and polymorphism.
